@@ -1,0 +1,9 @@
+||apple-cloudkit.com^
+||apple-livephotoskit.com^
+||apzones.com^
+||cdn-apple.com^
+||gc.apple.com^
+||icloud-content.com^
+||icloud.apple.com^
+||icloud.com.cn^
+||icloud.com^
