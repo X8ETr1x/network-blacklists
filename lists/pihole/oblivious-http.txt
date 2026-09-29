@@ -1,0 +1,3 @@
+mozilla-ohttp.fastly-edge.com
+ohttp-merino.mozilla.fastly-edge.com
+ohttp-relay1.fastly-edge.com
